@@ -3,12 +3,15 @@ layout: post
 title: "November 2014 Meeting"
 date: 2014-11-06 09:51
 comments: true
-categories: 
+categories:
 ---
 
 ### November 13th Meeting
 
-The exceptionally handsome Jon McCartie is proud to teach us all about Dashing.io - an exceptionally handsome dashboard framework.
+Curious if your app is online? Wanting to stop bothering you for the latest Key Performance Indicators? There is an answer to this problem and more - it goes by the name of [Dashing.io][dashing]  Jon is going to answer the question of  'why dashboards' as well as give us a whirlwind tour of the lovely Dashing framework.
+
+
+Jon McCartie is a Christian, husband, and father. He is the Technical Manager at [@lifechurchtv][lct] and founder of [@sproutmark][smt]. Read more of John's thoughts at his [blog][b].
 
 
 Location: [Prototek][prototek]
@@ -28,4 +31,7 @@ Time: 11:30 - 12:30
 
 
 [prototek]: http://prototekokc.com/
-
+[lct]: https://twitter.com/lifechurchtv
+[smt]: https://twitter.com/sproutmark
+[b]: http://blog.mccartie.com/
+[dashing]: http://dashing.io/

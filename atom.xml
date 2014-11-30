@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2014-11-06T23:17:45-06:00</updated>
+  <updated>2014-11-30T10:43:31-06:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[December 2014 Meeting]]></title>
+    <link href="http://www.okcruby.org/blog/2014/11/30/december-2014-meeting/"/>
+    <updated>2014-11-30T10:38:00-06:00</updated>
+    <id>http://www.okcruby.org/blog/2014/11/30/december-2014-meeting</id>
+    <content type="html"><![CDATA[<h3>December 11th Meeting</h3>
+
+<p>Join us as our very own Aaron Krauss presents &ldquo;Building a Stand-alone RESTful API with Rails&rdquo;.</p>
+
+<p>How can you go about supporting your Angular/Ember/Backbone app, iOS app, Android app, Windows phone app, Apple TV app, etc., all with a single back-end? Here&rsquo;s how: by breaking up your backend server into its own API service, and Rails is just the framework to help make it simple and awesome.</p>
+
+<p>A popular trend today is to break up your application into different services, i.e. Service Oriented Architecture (SOA). By building an API, not only can you support all of your related apps with this single service, but it also keeps your back-end incredibly simple, logical, and easily maintainable.</p>
+
+<p>In this talk, we&rsquo;re going to live-code an entire MVC RESTful API, all the way from scaffolding some models to handling serialization, authentication, and more if we have time. There will be candy too for active members of the audience &ndash; so bring your questions!</p>
+
+<p><a href="https://twitter.com/thecodeboss">Aaron Krauss</a> is a full-stack developer and Director of Awesome at Staplegun Design in OKC. Before he found the magic of open-source, he was sure to be a .Net developer &ndash; at least, that&rsquo;s what the 3 universities he attended made him think was the right path. Now he prefers to use languages like ruby, javascript, go, and sass, with tools like vim and tmux. He tries to do everything he can through the command line, which you&rsquo;ll certainly see during his presentation.</p>
+
+<p>Location: <a href="http://prototekokc.com/">Prototek</a>
+Time: 11:30 &ndash; 12:30</p>
+
+<p>{Jeremy, Michael, Paul, Rob}</p>
+
+<p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
+
+<p><img src="http://www.okcruby.org/images/prototek_parking.jpg" class="fit"></p>
+
+<table width="550" cellspacing="0" cellpadding="0">
+<tr><td colspan="2"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>
+<tr><td><a href="http://www.roberthalf.com/technology/"><img src="http://www.okcruby.org/images/sponsors/half.jpg" /></a></td>
+</tr>
+</table>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[November 2014 Meeting]]></title>
@@ -28,10 +65,6 @@
 Time: 11:30 &ndash; 12:30</p>
 
 <p>{Jeremy, Michael, Paul, Rob}</p>
-
-<p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
-
-<p><img src="http://www.okcruby.org/images/prototek_parking.jpg" class="fit"></p>
 
 <table width="550" cellspacing="0" cellpadding="0">
 <tr><td colspan="2"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>

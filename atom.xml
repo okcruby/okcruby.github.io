@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2015-01-06T11:44:38-06:00</updated>
+  <updated>2015-02-05T11:01:32-06:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[February 12th 2015 Meeting]]></title>
+    <link href="http://www.okcruby.org/blog/2015/02/05/february-2015-meeting/"/>
+    <updated>2015-02-05T10:51:00-06:00</updated>
+    <id>http://www.okcruby.org/blog/2015/02/05/february-2015-meeting</id>
+    <content type="html"><![CDATA[<h3>Fake it While we Make it (Ember and Rails API)</h3>
+
+<p>&ldquo;Can you make this?&rdquo; Our manager slides over a screenshot from Tron/Oblivion/Any Sci-fi movie with a sticky note that says &ldquo;our data here&rdquo; and pitchs us an idea.</p>
+
+<p>We are stuck between a cool idea and tons of unknowns. We know that the availability, accuracy, and nature of our data  will directly affect the quality and outcome of our project. So how do we begin developing? We fake it while we make it.</p>
+
+<p>This is what the talk is about: the importance of developing with fake data, the types of data we can fake, and some useful strategies for getting up and running with fake data.</p>
+
+<p>Ryan LaBouve makes Internet things. In addition to Ember.js he is passionate about Ruby, UX, usability, and accessibility.</p>
+
+<p>He is madly in love with his wife Robyn and their daughter, the Wee Princess Amy.</p>
+
+<p>When he is not at the keyboard you might find him reading books, playing music or making things. If you show up at his house he will feed you. If you invite him out to coffee he will gladly accept.</p>
+
+<p>Location: <a href="http://prototekokc.com/">Prototek</a>
+Time: 11:30 &ndash; 12:30</p>
+
+<p>{Jeremy, Michael, Paul, Rob}</p>
+
+<p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
+
+<p><img src="http://www.okcruby.org/images/prototek_parking.jpg" class="fit"></p>
+
+<table width="550" cellspacing="0" cellpadding="0">
+<tr><td colspan="2"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>
+<tr><td><a href="http://www.roberthalf.com/technology/"><img src="http://www.okcruby.org/images/sponsors/half.jpg" /></a></td>
+</tr>
+</table>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[January 2015 Meeting]]></title>
@@ -41,8 +80,6 @@ Time: 11:30 &ndash; 12:30</p>
 <p>{Jeremy, Michael, Paul, Rob}</p>
 
 <p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
-
-<p><img src="http://www.okcruby.org/images/prototek_parking.jpg" class="fit"></p>
 
 <table width="550" cellspacing="0" cellpadding="0">
 <tr><td colspan="2"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>

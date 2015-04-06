@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2015-02-05T11:02:59-06:00</updated>
+  <updated>2015-04-06T15:32:54-05:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[April 2015 Meeting]]></title>
+    <link href="http://www.okcruby.org/blog/2015/04/06/april-2015-meeting/"/>
+    <updated>2015-04-06T15:27:00-05:00</updated>
+    <id>http://www.okcruby.org/blog/2015/04/06/april-2015-meeting</id>
+    <content type="html"><![CDATA[<h3>SOA: Tales from the Frontlines</h3>
+
+<p>This month Paul Dawson will be presenting &ldquo;SOA: Tales from the Frontlines&rdquo; on Thursday
+April 9th.</p>
+
+<p>Service Oriented Architecture is a pattern of application design that has been
+discussed and suggested as a solution to complex, interconnected, applications.
+Join us as we discuss simple examples of how a small project could develop into
+to a services based approach and what weaknesses and challenges arise when
+using this pattern at scale.</p>
+
+<p>Paul is a relatively new developer with experience in in Ruby / Sinatra / Rails
+(in that order). He spends his free time with
+his family, riding his bike, and playing in Rust. He blogs sparingly at <a href="http://cannot.into.computer">http://cannot.into.computer</a>, which happens to be the greatest domain name ever.</p>
+
+<p>Location: <a href="http://prototekokc.com/">Prototek</a>
+Time: 11:30 &ndash; 12:30</p>
+
+<p>{Jeremy, Paul, Rob}</p>
+
+<p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
+
+<p><img src="http://www.okcruby.org/images/prototek_parking.jpg" class="fit"></p>
+
+<table width="550" cellspacing="0" cellpadding="0">
+<tr><td colspan="2"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>
+<tr><td><a href="http://www.roberthalf.com/technology/"><img src="http://www.okcruby.org/images/sponsors/half.jpg" /></a></td>
+</tr>
+</table>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[February 12th 2015 Meeting]]></title>
@@ -38,8 +78,6 @@ Time: 11:30 &ndash; 12:30</p>
 <p>{Jeremy, Michael, Paul, Rob}</p>
 
 <p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
-
-<p><img src="http://www.okcruby.org/images/prototek_parking.jpg" class="fit"></p>
 
 <table width="550" cellspacing="0" cellpadding="0">
 <tr><td colspan="2"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>

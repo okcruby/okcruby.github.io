@@ -1,0 +1,34 @@
+---
+layout: post
+title: "May 2015 Meeting"
+date: 2015-05-06 11:46
+comments: true
+categories: 
+---
+
+### Lightning Talks
+
+May is the month for Lightning Talks (at least this year). If you have something that you'd like to talk about for 5 or 10 minutes this is your chance.
+
+We have [a new Meetup page where you can leave a comment with a brief description of the talk you'd like to do](http://www.meetup.com/OKC-Ruby/events/222346509/).
+
+Or if you have an idea that you'd like to run by us for some feedback you can email us at team@okcruby.org.
+
+Location: [Prototek][prototek]
+Time: 11:30 - 12:30
+
+{Jeremy, Paul, Rob}
+
+<a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a>
+
+<img src="{{root_url}}/images/prototek_parking.jpg" class="fit">
+
+<table width="550" cellspacing="0" cellpadding="0">
+<tr><td colspan="2"><img src="{{ root_url }}/images/sponsors/sponsor-bar.jpg" /></td></tr>
+<tr><td><a href="http://www.roberthalf.com/technology/"><img src="{{ root_url }}/images/sponsors/half.jpg" /></a></td>
+</tr>
+</table>
+
+
+[prototek]: http://prototekokc.com/
+

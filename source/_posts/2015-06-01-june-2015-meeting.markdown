@@ -1,0 +1,39 @@
+---
+layout: post
+title: "June 2015 meeting"
+date: 2015-06-01 11:33
+comments: true
+categories: 
+---
+
+## Metaprogramming in Ruby
+
+
+Ruby is a sweet language, but it’s more than just syntax that makes it awesome. Ruby gives you the ability to write some really powerful code that other languages can’t do, things like modifying existing classes, accessing and modifying private instance variables, defining methods, gaining access to defined classes just by a string variable, and so much more, all at runtime!
+
+Don’t believe it? Well come to this meeting! We’re gonna go through some powerful, interactive demos of how you can start metaprogramming in Ruby.
+
+## About our speaker
+
+Aaron Krauss is the coolest developer in the world. Seriously. You all probably already know him as DHH’s go-to guy for consulting over framework architecture and Matz’s favorite developer on speed-dial, but did you know he’s also an avid tea drinker, beer brewer, and pun champion? Some people actually think he’s a robot, because he just seems programmed to be awesome.
+
+
+
+Location: [Prototek][prototek]
+Time: 11:30 - 12:30
+
+{Jeremy, Paul, Rob}
+
+<a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a>
+
+<img src="{{root_url}}/images/prototek_parking.jpg" class="fit">
+
+<table width="550" cellspacing="0" cellpadding="0">
+<tr><td colspan="2"><img src="{{ root_url }}/images/sponsors/sponsor-bar.jpg" /></td></tr>
+<tr><td><a href="http://www.roberthalf.com/technology/"><img src="{{ root_url }}/images/sponsors/half.jpg" /></a></td>
+</tr>
+</table>
+
+
+[prototek]: http://prototekokc.com/
+

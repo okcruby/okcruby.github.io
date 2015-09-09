@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2015-07-31T11:39:03-05:00</updated>
+  <updated>2015-09-09T08:44:49-05:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[September 10th Meeting]]></title>
+    <link href="http://www.okcruby.org/blog/2015/09/09/september-10th-meeting/"/>
+    <updated>2015-09-09T08:36:00-05:00</updated>
+    <id>http://www.okcruby.org/blog/2015/09/09/september-10th-meeting</id>
+    <content type="html"><![CDATA[<h2>Markov Chains for fun and profi&hellip;, well let&rsquo;s just call it fun.</h2>
+
+<p>Markov Chains have a number of uses in the world of computer science.
+We&rsquo;ll look at what they are and how they work. We&rsquo;ll look at a few
+applications for them and how they you might use them. Finally we&rsquo;ll
+take a deep dive into using Markov Chains for natural text processing and
+look at the concepts at work with some of your favorite Twitter bots.</p>
+
+<p>Jeremy Green is an independent consultant, an organizer of OkcRuby, and
+a prodigious starter of new side projects. You can learn more about him
+at <a href="http://www.octolabs.com/">http://www.octolabs.com/</a>.</p>
+
+<p>Location: <a href="http://prototekokc.com/">Prototek</a>
+Time: 11:30 &ndash; 12:30</p>
+
+<p>{Jeremy, Paul, Rob}</p>
+
+<p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
+
+<p><img src="http://www.okcruby.org/images/prototek_parking.jpg" class="fit"></p>
+
+<table width="550" cellspacing="0" cellpadding="0">
+<tr><td colspan="2"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>
+<tr><td><a href="http://www.roberthalf.com/technology/"><img src="http://www.okcruby.org/images/sponsors/half.jpg" /></a></td>
+</tr>
+</table>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[August 13th 2015 Meeting]]></title>
@@ -28,10 +65,6 @@
 Time: 11:30 &ndash; 12:30</p>
 
 <p>{Jeremy, Paul, Rob}</p>
-
-<p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
-
-<p><img src="http://www.okcruby.org/images/prototek_parking.jpg" class="fit"></p>
 
 <table width="550" cellspacing="0" cellpadding="0">
 <tr><td colspan="2"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>
@@ -57,10 +90,6 @@ Time: 11:30 &ndash; 12:30</p>
 Time: 11:30 &ndash; 12:30</p>
 
 <p>{Jeremy, Paul, Rob}</p>
-
-<p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
-
-<p><img src="http://www.okcruby.org/images/prototek_parking.jpg" class="fit"></p>
 
 <table width="550" cellspacing="0" cellpadding="0">
 <tr><td colspan="2"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>
@@ -93,10 +122,6 @@ Time: 11:30 &ndash; 12:30</p>
 
 <p>{Jeremy, Paul, Rob}</p>
 
-<p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
-
-<p><img src="http://www.okcruby.org/images/prototek_parking.jpg" class="fit"></p>
-
 <table width="550" cellspacing="0" cellpadding="0">
 <tr><td colspan="2"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>
 <tr><td><a href="http://www.roberthalf.com/technology/"><img src="http://www.okcruby.org/images/sponsors/half.jpg" /></a></td>
@@ -119,7 +144,7 @@ Time: 11:30 &ndash; 12:30</p>
 
 <p>We have <a href="http://www.meetup.com/OKC-Ruby/events/222346509/">a new Meetup page where you can leave a comment with a brief description of the talk you&rsquo;d like to do</a>.</p>
 
-<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#x6d;&#97;&#x69;&#108;&#116;&#x6f;&#58;&#x74;&#101;&#97;&#x6d;&#x40;&#111;&#107;&#x63;&#114;&#x75;&#x62;&#121;&#x2e;&#111;&#114;&#x67;&#46;">&#x74;&#x65;&#97;&#109;&#64;&#111;&#107;&#x63;&#114;&#x75;&#98;&#x79;&#x2e;&#111;&#114;&#x67;&#46;</a></p>
+<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#x6d;&#x61;&#105;&#108;&#x74;&#x6f;&#58;&#116;&#x65;&#x61;&#109;&#64;&#111;&#x6b;&#x63;&#114;&#x75;&#98;&#x79;&#x2e;&#x6f;&#x72;&#x67;&#46;">&#x74;&#101;&#97;&#x6d;&#64;&#111;&#x6b;&#99;&#114;&#x75;&#98;&#x79;&#x2e;&#111;&#x72;&#103;&#46;</a></p>
 
 <p>Location: <a href="http://prototekokc.com/">Prototek</a>
 Time: 11:30 &ndash; 12:30</p>
@@ -610,31 +635,6 @@ If you have an issue with using Google, please don&rsquo;t hesitate to DM on Twi
 <p>{Jeremy, Michael, Rob}</p>
 
 <p>Food Sponsor &ndash; Lucas and Lauren at <a href="http://www.roberthalf.com/technology/">Robert Half</a>. Say hi to them.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nov 14th Meeting]]></title>
-    <link href="http://www.okcruby.org/blog/2013/11/03/nov-14th-meeting/"/>
-    <updated>2013-11-03T20:16:00-06:00</updated>
-    <id>http://www.okcruby.org/blog/2013/11/03/nov-14th-meeting</id>
-    <content type="html"><![CDATA[<h4>November 14th Meeting</h4>
-
-<p>We have a double header of ruby goodness from the raisemore.com team for you this month!</p>
-
-<p>Starting things off, Josh Bavari (<a href="https://twitter.com/jbavari">@jbavari</a>) will show us how Rails Engines work and how to make use of them.</p>
-
-<p>After that, our local Data Magistrate Rob Sullivan (<a href="https://twitter.com/datachomp">@datachomp</a>) will show us why sequel is his top shelf data library.</p>
-
-<p>Location: <a href="http://www.exchangeokc.com/">The Exchange</a><br/>
-Time: 11:30 &ndash; 12:30<br/>
-RSVP: Please RSVP in the event in the Google Community. We use this number strictly for ordering food.<br/>
-If you have an issue with using Google, please don&rsquo;t hesitate to DM on Twitter, email us or whatever.</p>
-
-<p>{Jeremy, Michael, Rob}</p>
-
-<p>Event Sponsor &ndash; <a href="http://www.principaltechnologies.com/"><img src="http://www.principaltechnologies.com/Portals/_default/Skins/Principal_Technologies/images/logo.png" alt="principaltech"></a><br/>
-Prize Sponsors &ndash; Avdi and the <a href="http://shiprise.net/">Shiprise</a> Team</p>
 ]]></content>
   </entry>
   

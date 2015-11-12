@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2015-09-09T08:44:49-05:00</updated>
+  <updated>2015-11-11T21:18:10-06:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[October 2015 meeting]]></title>
+    <link href="http://www.okcruby.org/blog/2015/10/12/oct-2015-meeting/"/>
+    <updated>2015-10-12T11:23:00-05:00</updated>
+    <id>http://www.okcruby.org/blog/2015/10/12/oct-2015-meeting</id>
+    <content type="html"><![CDATA[<h2>Lightning Talks!</h2>
+
+<p>Location: <a href="http://prototekokc.com/">Prototek</a>
+Time: 11:30 &ndash; 12:30</p>
+
+<p>{Jeremy, Paul, Rob}</p>
+
+<p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
+
+<p><img src="http://www.okcruby.org/images/prototek_parking.jpg" class="fit"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[September 10th Meeting]]></title>
@@ -144,7 +162,7 @@ Time: 11:30 &ndash; 12:30</p>
 
 <p>We have <a href="http://www.meetup.com/OKC-Ruby/events/222346509/">a new Meetup page where you can leave a comment with a brief description of the talk you&rsquo;d like to do</a>.</p>
 
-<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#x6d;&#x61;&#105;&#108;&#x74;&#x6f;&#58;&#116;&#x65;&#x61;&#109;&#64;&#111;&#x6b;&#x63;&#114;&#x75;&#98;&#x79;&#x2e;&#x6f;&#x72;&#x67;&#46;">&#x74;&#101;&#97;&#x6d;&#64;&#111;&#x6b;&#99;&#114;&#x75;&#98;&#x79;&#x2e;&#111;&#x72;&#103;&#46;</a></p>
+<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#x6d;&#97;&#105;&#108;&#116;&#111;&#x3a;&#116;&#101;&#x61;&#x6d;&#64;&#x6f;&#107;&#99;&#x72;&#117;&#x62;&#121;&#46;&#111;&#x72;&#x67;&#46;">&#116;&#x65;&#x61;&#109;&#x40;&#111;&#107;&#99;&#114;&#117;&#98;&#121;&#x2e;&#x6f;&#114;&#x67;&#46;</a></p>
 
 <p>Location: <a href="http://prototekokc.com/">Prototek</a>
 Time: 11:30 &ndash; 12:30</p>
@@ -611,30 +629,6 @@ If you have an issue with using Google, please don&rsquo;t hesitate to DM on Twi
 
 <p>Location Sponsor &ndash; <a href="http://raisemore.com" title="raisemore">raisemore</a> and <a href="http://www.exchangeokc.com/">The Exchange</a><br/>
 Food Sponsor &ndash; Lucas and Lauren at <a href="http://www.roberthalf.com/technology/">Robert Half</a>. Say hi to them.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Dec 2013 Meeting]]></title>
-    <link href="http://www.okcruby.org/blog/2013/12/05/dec-2013-meeting/"/>
-    <updated>2013-12-05T10:59:00-06:00</updated>
-    <id>http://www.okcruby.org/blog/2013/12/05/dec-2013-meeting</id>
-    <content type="html"><![CDATA[<h4>December 12th Meeting</h4>
-
-<p>We have a double header of ruby goodness from frontend to backend!</p>
-
-<p>Starting things off, Jeremy Green (<a href="https://twitter.com/jagthedrummer">@jagthedrummer</a>) will have a cage match with Resque and Sidekiq. Who will come out on top? Come and find out.</p>
-
-<p>After that, Grant Schofield (<a href="https://twitter.com/schofield">@schofield</a>) will be breaking down JRuby and Trinidad. He and his team of giraffes broke away from MRI and will be showing us what they have learned from the school of hard ops.</p>
-
-<p>Location: <a href="http://www.exchangeokc.com/">The Exchange</a><br/>
-Time: 11:30 &ndash; 12:30<br/>
-RSVP: Please <a href="https://plus.google.com/events/c0fr08428bb1e8nb4sctbqmaruo">RSVP in the event in the Google Community</a>. We use this number strictly for ordering food.<br/>
-If you have an issue with using Google, please don&rsquo;t hesitate to DM on Twitter, email us or whatever.</p>
-
-<p>{Jeremy, Michael, Rob}</p>
-
-<p>Food Sponsor &ndash; Lucas and Lauren at <a href="http://www.roberthalf.com/technology/">Robert Half</a>. Say hi to them.</p>
 ]]></content>
   </entry>
   

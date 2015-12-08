@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meetings | okcruby]]></title>
   <link href="http://www.okcruby.org/blog/categories/meetings/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2015-11-11T21:26:42-06:00</updated>
+  <updated>2015-12-08T07:29:34-06:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dec 2015 Meeting]]></title>
+    <link href="http://www.okcruby.org/blog/2015/12/08/dec-2015-meeting/"/>
+    <updated>2015-12-08T07:16:00-06:00</updated>
+    <id>http://www.okcruby.org/blog/2015/12/08/dec-2015-meeting</id>
+    <content type="html"><![CDATA[<h2>Environments / Workflow Round Table Extravaganza</h2>
+
+<p>This month OKC.rb will be hosting a round table discussion on dev environments and workflow.
+It will be a gently guided discussion wherein everyone is invited to participate and share
+their favorite devtips and wonky environments. So bring your best shell scripts, project
+management tips, and vim plugins and we&rsquo;ll provide the pizza.</p>
+
+<p>Location: <a href="http://prototekokc.com/">Prototek</a></p>
+
+<p>Time: 11:30 &ndash; 12:30</p>
+
+<p>Date: Thursday, December 10, 2015</p>
+
+<p>RSVP: <a href="http://www.meetup.com/OKC-Ruby/events/222347331/">On Meetup</a></p>
+
+<p>{Jeremy, Paul, Rob}</p>
+
+<p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
+
+<p><img src="/images/prototek_parking.jpg" class="fit"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First Meeting - October 10th]]></title>

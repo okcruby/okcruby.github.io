@@ -5,20 +5,16 @@ date: 2015-11-11 21:19
 comments: true
 categories:
 ---
-##The bi-annual OKC.rb Un-meeting
 
-It's OKC.rb's two year anniversary!
-Join us for lunch and company as we invite feedback and suggestions about what you want to see in the future from your favorite local Ruby group.
+This month we're lucky to have Luke Crouch joining us from Tulsa.
 
-This will be a free form roundtable type meeting and topics will include:
+He'll be talking about time-saving and productivity tips and tools you can adopt
+right now, no matter what platform or language you use.  Specifically, the talk will
+demonstrate the benefits of improving your physical and mechanical activities while
+developing software - from keyboard shortcuts to optimal displays & lighting to
+automation tooling. It draws heavily from Productive Programmer by Neal Ford.
 
-  * Constructive criticism
-  * Topics for future talks
-  * Possible events instead of the traditional talk format
-  * Should we take on group projects?
-  * How does Rob make databases look so easy?
-  * Is it okay to NOT talk about Ruby?
-  * and more!
+Luke is a superstar and all around nice guy for the web and works for Mozilla. In addition to being very active in civic coding with Code for Tulsa, he also helps organize Tulsa Web Devs and Techlahoma Founation.  When not coding, Luke likes running, soccer and the Thunder.
 
 Location: [Prototek][prototek]
 Time: 11:30 - 12:30
@@ -26,7 +22,3 @@ Time: 11:30 - 12:30
 {Jeremy, Paul, Rob}
 
 <a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a>
-
-<img src="{{root_url}}/images/prototek_parking.jpg" class="fit">
-
-[prototek]: http://prototekokc.com/

@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Feb 11, 2016 Meeting"
+date: 2016-02-02 09:59
+comments: true
+categories: 
+---
+
+This month we have some of OKC's finest who were brave enough
+to volunteer to speak on a randomly chosen topic, in no
+particular order:
+
+* David Roberts - Ruby On Windows
+* Cort Spellman - Null Object Pattern
+* Clayton Flesher - Refinements
+* James Edward Gray II - Ruby 2.3
+* Paul Dawson - Docker
+
+'Popcorn talks' were created to help alleviate some of the
+anxiety of topic selection and to give member's a chance
+to present and learn about a topic they might not have
+otherwise. Presentations can be a bit longer than a
+traditional lightning talk, and topic choices were
+suggested by the group and put into a bag to be chosen
+by volunteers. This is OKC.rb's first attempt at hosting
+these type of presentations, feedback (as always) is
+welcome and encouraged.
+
+[Code Of Conduct](http://www.okcruby.org/about/)
+
+Location: [Prototek][prototek]
+Time: 11:30 - 12:30
+
+{Jeremy, Paul, Rob}
+
+<a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a>
+
+<img src="{{root_url}}/images/prototek_parking.jpg" class="fit">
+
+[prototek]: http://prototekokc.com/

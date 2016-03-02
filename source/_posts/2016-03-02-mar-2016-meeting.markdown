@@ -1,0 +1,20 @@
+---
+layout: post
+title: "March 10, 2016 Meeting"
+date: 2016-03-02 13:55
+comments: true
+categories: 
+---
+
+Whether you’re building a product using microservices or needing to
+offload some long-running tasks, having a message broker to communicate
+between different systems can be helpful. Using
+[RabbitMQ](https://www.rabbitmq.com), we will explore basic pub/sub and
+work our way up to RPC. Besides covering the basics, we will show how
+you can build more complex flows, check out a couple of useful plugins,
+and compare using a message broker to some of the other
+solutions currently available for Ruby.
+
+
+Nicholas Lindley is a music educator by training and software developer by trade. The public schools are grateful he pursued a career making things for the web. When not writing software, Nicholas might be playing his trumpet or having a beer. You can follow his occasional musings at https://www.thisoneplace.com/.
+

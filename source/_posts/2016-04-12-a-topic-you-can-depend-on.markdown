@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "A Topic you can Depend on"
+title: "April 14, 2016 Meeting"
 date: 2016-04-12 17:50
 comments: true
 categories: 
 ---
+
+## A Topic you can Depend on
 
 Lately Package Management seems to have really broken
 into a lot of discussions occurring amongst programmers. In this months 

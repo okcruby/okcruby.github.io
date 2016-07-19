@@ -12,7 +12,7 @@ Ruby scene had been dormant for far too long.  They set out to change
 that by forming okcruby, with the hopes that it would be a good way for
 Oklahoma Rubyists to connect and share ideas. We hope you will join us.  
 
-OKC Ruby meets the 2nd Thursday of every month, 11:30-12:30 at The Exchange  
+OKC Ruby meets the 2nd Thursday of every month, 11:30-12:30 at Prototek.
 
 #### Organizers
 [Jeremy Green][] ([@jagthedrummer][]) from [OctoLabs][]  

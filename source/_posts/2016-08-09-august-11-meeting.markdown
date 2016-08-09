@@ -8,6 +8,8 @@ categories:
 
 # Functional Programming Demystified
 
+Jordan Parmer, a software engineer at Osberg, will be joining us to talk about function programming.
+
 It’s hard to ignore the growing number of Functional Programming languages. Haskell, Scala, Clojure, F#, Erlang, R, and many more. But what is Functional Programming and why should you care?  This talk sets out to demystify FP, debunk common misconceptions, and highlight ways FP can solve certain problems. Stuck with Java or C#. No worries! Functional programming doesn’t require a purely functional programming language. It’s a different way of building. Let’s get functional!
 
 Many thanks to [Techlahoma](http://www.techlahoma.org/) for generously providing the materials for the meeting, including the food and chairs.

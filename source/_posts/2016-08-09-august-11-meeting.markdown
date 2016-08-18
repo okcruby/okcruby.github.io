@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-# Functional Programming Demystified
+## Functional Programming Demystified
 
 Jordan Parmer, a software engineer at Osberg, will be joining us to talk about function programming.
 

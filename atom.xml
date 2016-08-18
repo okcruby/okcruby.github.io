@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2016-08-09T16:20:06-05:00</updated>
+  <updated>2016-08-17T23:33:25-05:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -14,11 +14,47 @@
 
   
   <entry>
+    <title type="html"><![CDATA[September 8 Meeting]]></title>
+    <link href="http://www.okcruby.org/blog/2016/08/17/september-8-meeting/"/>
+    <updated>2016-08-17T23:23:00-05:00</updated>
+    <id>http://www.okcruby.org/blog/2016/08/17/september-8-meeting</id>
+    <content type="html"><![CDATA[<h2>Show &amp; Tell Talks</h2>
+
+<p>Come join us and tell us about something you&rsquo;ve been doing or working
+on. It could be a side project you&rsquo;re doing for fun, a side business
+you&rsquo;re starting, or just a cool thing you&rsquo;ve been toying with. Maybe
+it&rsquo;s not even technical. Maybe you&rsquo;ve been volunteering with an
+organization that you&rsquo;d like to talk about, or something like that. The
+idea is to just share something to let the rest of the group know a
+little more about you.</p>
+
+<p>Each &ldquo;Show &amp; Tell Talk&rdquo; should be around 6 minutes and can include some
+slides and/or code samples if you&rsquo;d like, or could be a walk through of
+some software, or maybe just showing off a web site. It&rsquo;s your call.</p>
+
+<p>You can sign up <a href="http://www.meetup.com/OKC-Ruby/events/233438145/">at the MeetUp event for this meeting</a>.</p>
+
+<p>Many thanks to <a href="http://www.techlahoma.org/">Techlahoma</a> for generously providing the materials for the meeting, including the food and chairs.</p>
+
+<p><a href="http://www.okcruby.org/about/">Code Of Conduct</a></p>
+
+<p>Location: <a href="http://prototekokc.com/">Prototek</a>
+Time: 11:30 &ndash; 12:30</p>
+
+<p>{Jeremy, Paul, Rob}</p>
+
+<p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
+
+<p><img src="http://www.okcruby.org/images/prototek_parking.jpg" class="fit"></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[August 11 Meeting]]></title>
     <link href="http://www.okcruby.org/blog/2016/08/09/august-11-meeting/"/>
     <updated>2016-08-09T16:08:00-05:00</updated>
     <id>http://www.okcruby.org/blog/2016/08/09/august-11-meeting</id>
-    <content type="html"><![CDATA[<h1>Functional Programming Demystified</h1>
+    <content type="html"><![CDATA[<h2>Functional Programming Demystified</h2>
 
 <p>Jordan Parmer, a software engineer at Osberg, will be joining us to talk about function programming.</p>
 
@@ -44,7 +80,7 @@ Time: 11:30 &ndash; 12:30</p>
     <link href="http://www.okcruby.org/blog/2016/07/12/july-14-meeting/"/>
     <updated>2016-07-12T22:29:00-05:00</updated>
     <id>http://www.okcruby.org/blog/2016/07/12/july-14-meeting</id>
-    <content type="html"><![CDATA[<h1>Full Stack double header</h1>
+    <content type="html"><![CDATA[<h2>Full Stack double header</h2>
 
 <p>Join us for twice the speakers, and twice the fun for a full stack
 double headder.</p>
@@ -77,7 +113,7 @@ Time: 11:30 &ndash; 12:30</p>
 
 <p>Leave a comment <a href="http://www.meetup.com/OKC-Ruby/events/231340828/">on our MeetUp event with a brief description of your idea to get on the lineup</a>.</p>
 
-<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#x6d;&#97;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#x74;&#x65;&#x61;&#109;&#x40;&#111;&#107;&#99;&#114;&#x75;&#x62;&#121;&#46;&#111;&#114;&#x67;&#x2e;">&#116;&#x65;&#97;&#x6d;&#x40;&#111;&#x6b;&#99;&#114;&#x75;&#98;&#121;&#46;&#x6f;&#x72;&#103;&#46;</a></p>
+<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#x6d;&#97;&#105;&#x6c;&#x74;&#x6f;&#x3a;&#x74;&#x65;&#97;&#x6d;&#x40;&#111;&#107;&#x63;&#114;&#x75;&#98;&#121;&#46;&#111;&#x72;&#x67;&#46;">&#x74;&#x65;&#x61;&#x6d;&#64;&#111;&#x6b;&#x63;&#x72;&#x75;&#x62;&#121;&#46;&#111;&#x72;&#x67;&#46;</a></p>
 
 <p><a href="http://www.okcruby.org/about/">Code Of Conduct</a></p>
 
@@ -407,7 +443,7 @@ Time: 11:30 &ndash; 12:30</p>
 
 <p>We have <a href="http://www.meetup.com/OKC-Ruby/events/222346509/">a new Meetup page where you can leave a comment with a brief description of the talk you&rsquo;d like to do</a>.</p>
 
-<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#x6d;&#97;&#105;&#108;&#x74;&#111;&#x3a;&#x74;&#101;&#97;&#109;&#64;&#x6f;&#107;&#99;&#114;&#x75;&#x62;&#121;&#46;&#111;&#x72;&#x67;&#46;">&#x74;&#x65;&#x61;&#x6d;&#64;&#111;&#x6b;&#x63;&#x72;&#x75;&#98;&#121;&#x2e;&#x6f;&#x72;&#x67;&#46;</a></p>
+<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#109;&#x61;&#105;&#x6c;&#116;&#x6f;&#58;&#116;&#101;&#x61;&#x6d;&#x40;&#x6f;&#107;&#99;&#114;&#x75;&#98;&#121;&#x2e;&#111;&#114;&#x67;&#x2e;">&#x74;&#101;&#x61;&#x6d;&#64;&#111;&#x6b;&#99;&#x72;&#117;&#98;&#x79;&#x2e;&#111;&#x72;&#x67;&#x2e;</a></p>
 
 <p>Location: <a href="http://prototekokc.com/">Prototek</a>
 Time: 11:30 &ndash; 12:30</p>
@@ -565,33 +601,6 @@ Time: 11:30 &ndash; 12:30</p>
 <p>{Jeremy, Michael, Paul, Rob}</p>
 
 <p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
-
-<table width="550" cellspacing="0" cellpadding="0">
-<tr><td colspan="2"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>
-<tr><td><a href="http://www.roberthalf.com/technology/"><img src="http://www.okcruby.org/images/sponsors/half.jpg" /></a></td>
-</tr>
-</table>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[November 2014 Meeting]]></title>
-    <link href="http://www.okcruby.org/blog/2014/11/06/november-2014-meeting/"/>
-    <updated>2014-11-06T09:51:00-06:00</updated>
-    <id>http://www.okcruby.org/blog/2014/11/06/november-2014-meeting</id>
-    <content type="html"><![CDATA[<h3>November 13th Meeting</h3>
-
-<p>Curious if your app is online? Wanting to stop bothering you for the latest Key Performance Indicators? There is an answer to this problem and more &ndash; it goes by the name of <a href="http://dashing.io/">Dashing.io</a>  Jon is going to answer the question of  &lsquo;why dashboards&rsquo; as well as give us a whirlwind tour of the lovely Dashing framework.</p>
-
-<p>Jon McCartie is a Christian, husband, and father. He is the Technical Manager at <a href="https://twitter.com/lifechurchtv">@lifechurchtv</a> and founder of <a href="https://twitter.com/sproutmark">@sproutmark</a>. Read more of John&rsquo;s thoughts at his <a href="http://blog.mccartie.com/">blog</a>.</p>
-
-<p>Location: <a href="http://prototekokc.com/">Prototek</a>
-Time: 11:30 &ndash; 12:30</p>
-
-<p>{Jeremy, Michael, Paul, Rob}</p>
 
 <table width="550" cellspacing="0" cellpadding="0">
 <tr><td colspan="2"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>

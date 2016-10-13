@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2016-08-17T23:33:25-05:00</updated>
+  <updated>2016-10-12T19:08:40-05:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[October 13 Meeting]]></title>
+    <link href="http://www.okcruby.org/blog/2016/10/12/october-13-meeting/"/>
+    <updated>2016-10-12T19:04:00-05:00</updated>
+    <id>http://www.okcruby.org/blog/2016/10/12/october-13-meeting</id>
+    <content type="html"><![CDATA[<h2>Product Planning Round Table</h2>
+
+<p>In this months round table discussion we&rsquo;ll talk about processes used to
+plan and execute products. At your company are the developers involved
+in deciding what to build? Are your customers? How do you decide what&rsquo;s
+most important at any given time? How do you know when it&rsquo;s time for a
+rewrite instead of something less drastic?</p>
+
+<p><a href="http://www.okcruby.org/about/">Code Of Conduct</a></p>
+
+<p>Location: <a href="http://prototekokc.com/">Prototek</a>
+Time: 11:30 &ndash; 12:30</p>
+
+<p>{Jeremy, Paul, Rob}</p>
+
+<p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
+
+<p><img src="http://www.okcruby.org/images/prototek_parking.jpg" class="fit"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[September 8 Meeting]]></title>
@@ -113,7 +139,7 @@ Time: 11:30 &ndash; 12:30</p>
 
 <p>Leave a comment <a href="http://www.meetup.com/OKC-Ruby/events/231340828/">on our MeetUp event with a brief description of your idea to get on the lineup</a>.</p>
 
-<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#x6d;&#97;&#105;&#x6c;&#x74;&#x6f;&#x3a;&#x74;&#x65;&#97;&#x6d;&#x40;&#111;&#107;&#x63;&#114;&#x75;&#98;&#121;&#46;&#111;&#x72;&#x67;&#46;">&#x74;&#x65;&#x61;&#x6d;&#64;&#111;&#x6b;&#x63;&#x72;&#x75;&#x62;&#121;&#46;&#111;&#x72;&#x67;&#46;</a></p>
+<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#x6d;&#x61;&#x69;&#108;&#x74;&#111;&#58;&#116;&#x65;&#x61;&#109;&#x40;&#111;&#x6b;&#x63;&#114;&#x75;&#98;&#121;&#x2e;&#111;&#x72;&#103;&#x2e;">&#116;&#101;&#x61;&#x6d;&#64;&#x6f;&#107;&#x63;&#x72;&#x75;&#98;&#121;&#46;&#111;&#114;&#x67;&#x2e;</a></p>
 
 <p><a href="http://www.okcruby.org/about/">Code Of Conduct</a></p>
 
@@ -443,7 +469,7 @@ Time: 11:30 &ndash; 12:30</p>
 
 <p>We have <a href="http://www.meetup.com/OKC-Ruby/events/222346509/">a new Meetup page where you can leave a comment with a brief description of the talk you&rsquo;d like to do</a>.</p>
 
-<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#109;&#x61;&#105;&#x6c;&#116;&#x6f;&#58;&#116;&#101;&#x61;&#x6d;&#x40;&#x6f;&#107;&#99;&#114;&#x75;&#98;&#121;&#x2e;&#111;&#114;&#x67;&#x2e;">&#x74;&#101;&#x61;&#x6d;&#64;&#111;&#x6b;&#99;&#x72;&#117;&#98;&#x79;&#x2e;&#111;&#x72;&#x67;&#x2e;</a></p>
+<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#109;&#97;&#105;&#x6c;&#116;&#111;&#x3a;&#x74;&#x65;&#x61;&#109;&#x40;&#x6f;&#x6b;&#x63;&#x72;&#117;&#x62;&#x79;&#46;&#111;&#x72;&#x67;&#x2e;">&#116;&#101;&#97;&#x6d;&#x40;&#x6f;&#107;&#x63;&#x72;&#117;&#98;&#x79;&#46;&#x6f;&#114;&#103;&#46;</a></p>
 
 <p>Location: <a href="http://prototekokc.com/">Prototek</a>
 Time: 11:30 &ndash; 12:30</p>
@@ -559,41 +585,6 @@ from the group in 2015. Our current (tentative) plans involve finding a
 mix of local and regional speakers combined with some more virtual
 presentations from Rubyists across the country. If you have topics that
 you&rsquo;d like to hear about (or speak about!) let us know.</p>
-
-<p>Location: <a href="http://prototekokc.com/">Prototek</a>
-Time: 11:30 &ndash; 12:30</p>
-
-<p>{Jeremy, Michael, Paul, Rob}</p>
-
-<p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
-
-<table width="550" cellspacing="0" cellpadding="0">
-<tr><td colspan="2"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>
-<tr><td><a href="http://www.roberthalf.com/technology/"><img src="http://www.okcruby.org/images/sponsors/half.jpg" /></a></td>
-</tr>
-</table>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[December 2014 Meeting]]></title>
-    <link href="http://www.okcruby.org/blog/2014/11/30/december-2014-meeting/"/>
-    <updated>2014-11-30T10:38:00-06:00</updated>
-    <id>http://www.okcruby.org/blog/2014/11/30/december-2014-meeting</id>
-    <content type="html"><![CDATA[<h3>December 11th Meeting</h3>
-
-<p>Join us as our very own Aaron Krauss presents &ldquo;Building a Stand-alone RESTful API with Rails&rdquo;.</p>
-
-<p>How can you go about supporting your Angular/Ember/Backbone app, iOS app, Android app, Windows phone app, Apple TV app, etc., all with a single back-end? Here&rsquo;s how: by breaking up your backend server into its own API service, and Rails is just the framework to help make it simple and awesome.</p>
-
-<p>A popular trend today is to break up your application into different services, i.e. Service Oriented Architecture (SOA). By building an API, not only can you support all of your related apps with this single service, but it also keeps your back-end incredibly simple, logical, and easily maintainable.</p>
-
-<p>In this talk, we&rsquo;re going to live-code an entire MVC RESTful API, all the way from scaffolding some models to handling serialization, authentication, and more if we have time. There will be candy too for active members of the audience &ndash; so bring your questions!</p>
-
-<p><a href="https://twitter.com/thecodeboss">Aaron Krauss</a> is a full-stack developer and Director of Awesome at Staplegun Design in OKC. Before he found the magic of open-source, he was sure to be a .Net developer &ndash; at least, that&rsquo;s what the 3 universities he attended made him think was the right path. Now he prefers to use languages like ruby, javascript, go, and sass, with tools like vim and tmux. He tries to do everything he can through the command line, which you&rsquo;ll certainly see during his presentation.</p>
 
 <p>Location: <a href="http://prototekokc.com/">Prototek</a>
 Time: 11:30 &ndash; 12:30</p>

@@ -1,0 +1,21 @@
+Ruby book club
+Remote speakers
+Richard Sheeman
+RabbitMQ - Queueing
+ActiveJob
+Forgeign keys in Rails 4
+
+Less technical
+
+Consulting - going indy - round table
+Remote working
+
+
+Create Trello board for topics and voting
+
+
+Organize/consolidate community/organization
+Nuzzle?
+
+
+Central Techlahoma meetup account?

@@ -8,8 +8,8 @@ categories:
 
 ## DevOps Round Table
 
-Join us for this month round table where we'll be discussing the current
-state of DevOps. What exactly _is_ DevOps? Does it cover more than just
+Join us this month for a round table discussion where we’ll be discussing the current state of DevOps.
+What exactly _is_ DevOps? Does it cover more than just
 deployment strategies? What tools and processes are critical to your
 implementation of DevOps? What are things that you think many people
 overlook when it comes to DevOps?

@@ -8,7 +8,7 @@ categories:
 
 ## Best Practices for Building a JSON API with Rails 5
 
-A while back, Aaron gave a talk over building a basic JSON API with Rails where we covered some core API concepts. In this talk, we'll take those concepts to the next level and focus on 3 areas of best practice when building a JSON API:
+
 
 * The JSON API spec
 * Pagination
@@ -22,6 +22,8 @@ Aaron Krauss is a developer at Clevyr where he builds data-driven applications i
 
 
 [Code Of Conduct](http://www.okcruby.org/about/)
+
+Many thanks to [Techlahoma](http://www.techlahoma.org/) for sponsoring the meeting by providing the food and use of the event center.
 
 Location: [StarSpace46][ss46]
 Time: 11:30 - 12:30

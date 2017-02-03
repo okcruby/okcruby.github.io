@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2017-01-04T15:48:20-06:00</updated>
+  <updated>2017-02-03T16:47:45-06:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[February 9 Meeting]]></title>
+    <link href="http://www.okcruby.org/blog/2017/02/03/february-9-meeting/"/>
+    <updated>2017-02-03T16:45:00-06:00</updated>
+    <id>http://www.okcruby.org/blog/2017/02/03/february-9-meeting</id>
+    <content type="html"><![CDATA[<h2>Best Practices for Building a JSON API with Rails 5</h2>
+
+<p>A while back, Aaron gave a talk over building a basic JSON API with Rails where we covered some core API concepts. In this talk, we&rsquo;ll take those concepts to the next level and focus on 3 areas of best practice when building a JSON API:</p>
+
+<ul>
+<li>The JSON API spec</li>
+<li>Pagination</li>
+<li>Versioning</li>
+</ul>
+
+
+<p>Don&rsquo;t worry &ndash; it&rsquo;s okay if you missed the original talk; we&rsquo;re gonna be building an API from the ground up so everyone will be on the same page. The whole talk will be live-coding with Rails 5; however, if you&rsquo;re unfamiliar with Rails (or even Ruby in general), the concepts we&rsquo;ll be covering are all language and framework agnostic, and you can apply them to any JSON API you build in any language.</p>
+
+<p>This talk is part 1 of a 2-part series, and this talk helps set the stage for the next talk in March (where we&rsquo;ll tie this API up with Docker). You won&rsquo;t want to miss it!</p>
+
+<p>Aaron Krauss is a developer at Clevyr where he builds data-driven applications in Ruby, Javascript, Go, and anything else awesome. He also blogs regularly, drinks beer, has a cool dog, and has been dating someone for over 10 years.</p>
+
+<p><a href="http://www.okcruby.org/about/">Code Of Conduct</a></p>
+
+<p>Location: <a href="http://www.starspace46.com/">StarSpace46</a>
+Time: 11:30 &ndash; 12:30</p>
+
+<p>{Jeremy, Paul, Rob}</p>
+
+<p><a href="https://www.google.com/maps/place/1141+W+Sheridan+Ave,+Oklahoma+City,+OK+73106/@35.4667943,-97.5343547,17z/data=!3m1!4b1!4m5!3m4!1s0x87b210d6c554c175:0x427474147d8d3d19!8m2!3d35.46679!4d-97.532166">StarSpace46 on Google Maps.</a></p>
+
+<p><img src="http://www.okcruby.org/images/starspace46_parking.jpg" class="fit"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[January 12 Meeting]]></title>
@@ -185,7 +220,7 @@ Time: 11:30 &ndash; 12:30</p>
 
 <p>Leave a comment <a href="http://www.meetup.com/OKC-Ruby/events/231340828/">on our MeetUp event with a brief description of your idea to get on the lineup</a>.</p>
 
-<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#x6d;&#97;&#105;&#108;&#116;&#111;&#x3a;&#x74;&#x65;&#97;&#x6d;&#64;&#111;&#107;&#99;&#x72;&#x75;&#x62;&#121;&#x2e;&#x6f;&#x72;&#x67;&#46;">&#x74;&#x65;&#x61;&#109;&#x40;&#111;&#107;&#99;&#114;&#x75;&#x62;&#x79;&#x2e;&#111;&#114;&#x67;&#46;</a></p>
+<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#111;&#x3a;&#x74;&#x65;&#x61;&#109;&#x40;&#x6f;&#x6b;&#99;&#114;&#x75;&#x62;&#121;&#46;&#111;&#x72;&#103;&#x2e;">&#116;&#x65;&#97;&#109;&#64;&#x6f;&#107;&#x63;&#114;&#x75;&#98;&#x79;&#46;&#111;&#114;&#x67;&#x2e;</a></p>
 
 <p><a href="http://www.okcruby.org/about/">Code Of Conduct</a></p>
 
@@ -501,45 +536,7 @@ Time: 11:30 &ndash; 12:30</p>
 
 <p>We have <a href="http://www.meetup.com/OKC-Ruby/events/222346509/">a new Meetup page where you can leave a comment with a brief description of the talk you&rsquo;d like to do</a>.</p>
 
-<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#109;&#97;&#x69;&#108;&#116;&#111;&#x3a;&#x74;&#x65;&#x61;&#x6d;&#64;&#111;&#x6b;&#99;&#114;&#117;&#x62;&#x79;&#x2e;&#x6f;&#114;&#103;&#x2e;">&#116;&#101;&#x61;&#x6d;&#x40;&#111;&#107;&#x63;&#114;&#x75;&#98;&#121;&#x2e;&#x6f;&#114;&#103;&#46;</a></p>
-
-<p>Location: <a href="http://prototekokc.com/">Prototek</a>
-Time: 11:30 &ndash; 12:30</p>
-
-<p>{Jeremy, Paul, Rob}</p>
-
-<p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
-
-<table width="550" cellspacing="0" cellpadding="0">
-<tr><td colspan="2"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>
-<tr><td><a href="http://www.roberthalf.com/technology/"><img src="http://www.okcruby.org/images/sponsors/half.jpg" /></a></td>
-</tr>
-</table>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[April 2015 Meeting]]></title>
-    <link href="http://www.okcruby.org/blog/2015/04/06/april-2015-meeting/"/>
-    <updated>2015-04-06T15:27:00-05:00</updated>
-    <id>http://www.okcruby.org/blog/2015/04/06/april-2015-meeting</id>
-    <content type="html"><![CDATA[<h3>SOA: Tales from the Frontlines</h3>
-
-<p>This month Paul Dawson will be presenting &ldquo;SOA: Tales from the Frontlines&rdquo; on Thursday
-April 9th.</p>
-
-<p>Service Oriented Architecture is a pattern of application design that has been
-discussed and suggested as a solution to complex, interconnected, applications.
-Join us as we discuss simple examples of how a small project could develop into
-to a services based approach and what weaknesses and challenges arise when
-using this pattern at scale.</p>
-
-<p>Paul is a relatively new developer with experience in in Ruby / Sinatra / Rails
-(in that order). He spends his free time with
-his family, riding his bike, and playing in Rust. He blogs sparingly at <a href="http://cannot.into.computer">http://cannot.into.computer</a>, which happens to be the greatest domain name ever.</p>
+<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#58;&#x74;&#101;&#97;&#x6d;&#64;&#x6f;&#x6b;&#99;&#x72;&#117;&#x62;&#x79;&#46;&#x6f;&#114;&#x67;&#x2e;">&#116;&#x65;&#x61;&#x6d;&#64;&#x6f;&#107;&#99;&#114;&#x75;&#x62;&#x79;&#46;&#111;&#114;&#x67;&#46;</a></p>
 
 <p>Location: <a href="http://prototekokc.com/">Prototek</a>
 Time: 11:30 &ndash; 12:30</p>

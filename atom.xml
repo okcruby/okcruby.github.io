@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2017-02-27T07:57:05-06:00</updated>
+  <updated>2017-05-04T21:47:56-05:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[May 11 Meeting]]></title>
+    <link href="http://www.okcruby.org/blog/2017/05/04/may-11-meeting/"/>
+    <updated>2017-05-04T21:45:00-05:00</updated>
+    <id>http://www.okcruby.org/blog/2017/05/04/may-11-meeting</id>
+    <content type="html"><![CDATA[<h2>An intro to Elixir and OTP for Rubyists</h2>
+
+<p>Elixir is a functional language that seems to be drawing many Rubyists away from their first love. It promises things like concurrency, fault tolerance, incredible performance, and more. One of the ways Elixir achieves this is by building on top of the Open Telecom Platform (OTP).</p>
+
+<p>OTP is a collection of tools written in Erlang designed to give us this reliable and fast communication between processes. In this talk we&rsquo;ll look at the fundamentals of OTP and how &ldquo;the Elixir way&rdquo; helps us build well-architected, performant, and reliable software.</p>
+
+<p>John Mosesman is an independent consultant and developer who would rather be in the woods and/or playing video games.</p>
+
+<p><a href="http://www.okcruby.org/about/">Code Of Conduct</a></p>
+
+<p>Many thanks to <a href="http://www.techlahoma.org/">Techlahoma</a> for sponsoring the meeting by providing the food and use of the event center.</p>
+
+<p>Location: <a href="http://www.starspace46.com/">StarSpace46</a>
+Time: 11:30 &ndash; 12:30</p>
+
+<p>{Jeremy, Paul, Rob}</p>
+
+<p><a href="https://www.google.com/maps/place/1141+W+Sheridan+Ave,+Oklahoma+City,+OK+73106/@35.4667943,-97.5343547,17z/data=!3m1!4b1!4m5!3m4!1s0x87b210d6c554c175:0x427474147d8d3d19!8m2!3d35.46679!4d-97.532166">StarSpace46 on Google Maps.</a></p>
+
+<p><img src="http://www.okcruby.org/images/starspace46_parking.jpg" class="fit"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[March 9 Meeting]]></title>
@@ -249,7 +277,7 @@ Time: 11:30 &ndash; 12:30</p>
 
 <p>Leave a comment <a href="http://www.meetup.com/OKC-Ruby/events/231340828/">on our MeetUp event with a brief description of your idea to get on the lineup</a>.</p>
 
-<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#109;&#97;&#105;&#x6c;&#116;&#111;&#58;&#x74;&#101;&#x61;&#x6d;&#64;&#x6f;&#107;&#x63;&#x72;&#x75;&#x62;&#x79;&#46;&#x6f;&#114;&#x67;&#46;">&#116;&#101;&#97;&#x6d;&#64;&#x6f;&#107;&#99;&#x72;&#x75;&#x62;&#x79;&#x2e;&#x6f;&#114;&#x67;&#x2e;</a></p>
+<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#109;&#97;&#105;&#108;&#x74;&#111;&#x3a;&#x74;&#101;&#97;&#109;&#x40;&#111;&#x6b;&#99;&#114;&#x75;&#98;&#x79;&#x2e;&#x6f;&#x72;&#103;&#46;">&#116;&#101;&#97;&#x6d;&#64;&#x6f;&#x6b;&#99;&#114;&#x75;&#98;&#x79;&#46;&#x6f;&#114;&#103;&#x2e;</a></p>
 
 <p><a href="http://www.okcruby.org/about/">Code Of Conduct</a></p>
 
@@ -506,37 +534,6 @@ Time: 11:30 &ndash; 12:30</p>
     <content type="html"><![CDATA[<h2>Round Table: Side Projects</h2>
 
 <p>What is the point of side projects? Are they your passion? Are they money to fuel your passions?  Should you morally even work on one outside of your day job?  This month, we will take on all things ~side projects~ during our round table discussion. Hope to see you there!</p>
-
-<p>Location: <a href="http://prototekokc.com/">Prototek</a>
-Time: 11:30 &ndash; 12:30</p>
-
-<p>{Jeremy, Paul, Rob}</p>
-
-<table width="550" cellspacing="0" cellpadding="0">
-<tr><td colspan="2"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>
-<tr><td><a href="http://www.roberthalf.com/technology/"><img src="http://www.okcruby.org/images/sponsors/half.jpg" /></a></td>
-</tr>
-</table>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[June 2015 meeting]]></title>
-    <link href="http://www.okcruby.org/blog/2015/06/01/june-2015-meeting/"/>
-    <updated>2015-06-01T11:33:00-05:00</updated>
-    <id>http://www.okcruby.org/blog/2015/06/01/june-2015-meeting</id>
-    <content type="html"><![CDATA[<h2>Metaprogramming in Ruby</h2>
-
-<p>Ruby is a sweet language, but it’s more than just syntax that makes it awesome. Ruby gives you the ability to write some really powerful code that other languages can’t do, things like modifying existing classes, accessing and modifying private instance variables, defining methods, gaining access to defined classes just by a string variable, and so much more, all at runtime!</p>
-
-<p>Don’t believe it? Well come to this meeting! We’re gonna go through some powerful, interactive demos of how you can start metaprogramming in Ruby.</p>
-
-<h2>About our speaker</h2>
-
-<p>Aaron Krauss is the coolest developer in the world. Seriously. You all probably already know him as DHH’s go-to guy for consulting over framework architecture and Matz’s favorite developer on speed-dial, but did you know he’s also an avid tea drinker, beer brewer, and pun champion? Some people actually think he’s a robot, because he just seems programmed to be awesome.</p>
 
 <p>Location: <a href="http://prototekokc.com/">Prototek</a>
 Time: 11:30 &ndash; 12:30</p>

@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2017-07-13T11:57:45-05:00</updated>
+  <updated>2017-09-11T12:56:36-05:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[September 14 Meeting]]></title>
+    <link href="http://www.okcruby.org/blog/2017/09/11/september-14-meeting/"/>
+    <updated>2017-09-11T12:55:00-05:00</updated>
+    <id>http://www.okcruby.org/blog/2017/09/11/september-14-meeting</id>
+    <content type="html"><![CDATA[<h2>Let&rsquo;s break code together</h2>
+
+<p>The most difficult problem in sofware development is people, and nowe&rsquo;re not talking about the users. It&rsquo;s us. In any collaborative projectcode reviews are a key part of the development process, but how can we knowif we&rsquo;re doing them effectively? Join us as we explore strategies for a moreproductive and enjoyable review process through embracing more failure andexperimentation.</p>
+
+<p>Paul Dawson is a remote developer at Citrusbyte writing Elixir and Ruby.He is most often found on a bicycle, drinking coffee, and eating &ndash; but not usuallyat the same time.</p>
+
+<p><a href="http://www.okcruby.org/about/">Code Of Conduct</a></p>
+
+<p>Many thanks to <a href="http://www.techlahoma.org/">Techlahoma</a> for sponsoring the meeting by providing the food and use of the event center.</p>
+
+<p>Location: <a href="http://www.starspace46.com/">StarSpace46</a>
+Time: 11:30 &ndash; 12:30</p>
+
+<p>{Jeremy, Paul, Rob}</p>
+
+<p><a href="https://www.google.com/maps/place/1141+W+Sheridan+Ave,+Oklahoma+City,+OK+73106/@35.4667943,-97.5343547,17z/data=!3m1!4b1!4m5!3m4!1s0x87b210d6c554c175:0x427474147d8d3d19!8m2!3d35.46679!4d-97.532166">StarSpace46 on Google Maps.</a></p>
+
+<p><img src="http://www.okcruby.org/images/starspace46_parking.jpg" class="fit"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[August 10 Meeting]]></title>
@@ -353,7 +379,7 @@ Time: 11:30 &ndash; 12:30</p>
 
 <p>Leave a comment <a href="http://www.meetup.com/OKC-Ruby/events/231340828/">on our MeetUp event with a brief description of your idea to get on the lineup</a>.</p>
 
-<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#109;&#97;&#x69;&#108;&#116;&#111;&#58;&#x74;&#101;&#x61;&#109;&#64;&#111;&#x6b;&#99;&#x72;&#117;&#x62;&#121;&#x2e;&#111;&#x72;&#x67;&#46;">&#116;&#101;&#97;&#109;&#64;&#x6f;&#107;&#99;&#114;&#x75;&#98;&#121;&#x2e;&#111;&#x72;&#103;&#46;</a></p>
+<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#109;&#97;&#105;&#x6c;&#x74;&#111;&#x3a;&#x74;&#x65;&#x61;&#x6d;&#64;&#111;&#107;&#99;&#114;&#117;&#98;&#121;&#46;&#x6f;&#114;&#103;&#x2e;">&#x74;&#x65;&#x61;&#109;&#x40;&#x6f;&#107;&#x63;&#x72;&#x75;&#98;&#121;&#x2e;&#111;&#x72;&#103;&#x2e;</a></p>
 
 <p><a href="http://www.okcruby.org/about/">Code Of Conduct</a></p>
 
@@ -516,22 +542,6 @@ Join us for lunch and company as we invite feedback and suggestions about what y
 
 
 <p>Location: [Prototek][prototek]
-Time: 11:30 &ndash; 12:30</p>
-
-<p>{Jeremy, Paul, Rob}</p>
-
-<p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[October 2015 meeting]]></title>
-    <link href="http://www.okcruby.org/blog/2015/10/12/oct-2015-meeting/"/>
-    <updated>2015-10-12T11:23:00-05:00</updated>
-    <id>http://www.okcruby.org/blog/2015/10/12/oct-2015-meeting</id>
-    <content type="html"><![CDATA[<h2>Lightning Talks!</h2>
-
-<p>Location: <a href="http://prototekokc.com/">Prototek</a>
 Time: 11:30 &ndash; 12:30</p>
 
 <p>{Jeremy, Paul, Rob}</p>

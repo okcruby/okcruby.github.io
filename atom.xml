@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2017-11-06T08:21:22-06:00</updated>
+  <updated>2018-01-09T09:20:22-06:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[January 11 Meeting]]></title>
+    <link href="http://www.okcruby.org/blog/2018/01/09/january-11-meeting/"/>
+    <updated>2018-01-09T09:17:00-06:00</updated>
+    <id>http://www.okcruby.org/blog/2018/01/09/january-11-meeting</id>
+    <content type="html"><![CDATA[<h2>The Odin Project: Advantages and Drawbacks of the Meta-Tutorial</h2>
+
+<p>A primer on a very comprehensive course on Ruby and the Rails framework.</p>
+
+<p>Joe Lee is a self-paced web development student currently learning JavaScript and Ruby, who recently landed his first tech job thanks in no small part to his involvement with Techlahoma. His hobbies include video games and attempting to usurp the skeleton&rsquo;s place as StarSpace 46&rsquo;s mascot.</p>
+
+<p><a href="http://www.okcruby.org/about/">Code Of Conduct</a></p>
+
+<p>Many thanks to <a href="http://www.techlahoma.org/">Techlahoma</a> for sponsoring the meeting by providing the food and use of the event center.</p>
+
+<p>Location: <a href="http://www.starspace46.com/">StarSpace46</a>
+Time: 11:30 &ndash; 12:30</p>
+
+<p>{Jeremy, Paul, Rob}</p>
+
+<p><a href="https://www.google.com/maps/place/1141+W+Sheridan+Ave,+Oklahoma+City,+OK+73106/@35.4667943,-97.5343547,17z/data=!3m1!4b1!4m5!3m4!1s0x87b210d6c554c175:0x427474147d8d3d19!8m2!3d35.46679!4d-97.532166">StarSpace46 on Google Maps.</a></p>
+
+<p><img src="http://www.okcruby.org/images/starspace46_parking.jpg" class="fit"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[November 9 Meeting]]></title>
@@ -433,7 +459,7 @@ Time: 11:30 &ndash; 12:30</p>
 
 <p>Leave a comment <a href="http://www.meetup.com/OKC-Ruby/events/231340828/">on our MeetUp event with a brief description of your idea to get on the lineup</a>.</p>
 
-<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#109;&#97;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#x74;&#x65;&#x61;&#109;&#x40;&#x6f;&#x6b;&#x63;&#x72;&#117;&#98;&#x79;&#46;&#111;&#114;&#x67;&#x2e;">&#x74;&#101;&#x61;&#x6d;&#x40;&#x6f;&#x6b;&#x63;&#x72;&#x75;&#98;&#x79;&#46;&#111;&#114;&#x67;&#x2e;</a></p>
+<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#109;&#x61;&#105;&#108;&#116;&#x6f;&#x3a;&#x74;&#101;&#x61;&#109;&#x40;&#x6f;&#107;&#x63;&#x72;&#x75;&#x62;&#x79;&#x2e;&#x6f;&#114;&#x67;&#46;">&#x74;&#101;&#97;&#x6d;&#64;&#111;&#x6b;&#x63;&#x72;&#x75;&#x62;&#x79;&#46;&#111;&#114;&#x67;&#x2e;</a></p>
 
 <p><a href="http://www.okcruby.org/about/">Code Of Conduct</a></p>
 
@@ -506,45 +532,6 @@ and compare using a message broker to some of the other
 solutions currently available for Ruby.</p>
 
 <p>Nicholas Lindley is a music educator by training and software developer by trade. The public schools are grateful he pursued a career making things for the web. When not writing software, Nicholas might be playing his trumpet or having a beer. You can follow his occasional musings at <a href="https://www.thisoneplace.com/.">https://www.thisoneplace.com/.</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Feb 11, 2016 Meeting]]></title>
-    <link href="http://www.okcruby.org/blog/2016/02/02/feb-2016-meeting/"/>
-    <updated>2016-02-02T09:59:00-06:00</updated>
-    <id>http://www.okcruby.org/blog/2016/02/02/feb-2016-meeting</id>
-    <content type="html"><![CDATA[<p>This month we have some of OKC&rsquo;s finest who were brave enough
-to volunteer to speak on a randomly chosen topic, in no
-particular order:</p>
-
-<ul>
-<li>David Roberts &ndash; Ruby On Windows</li>
-<li>Cort Spellman &ndash; Null Object Pattern</li>
-<li>Clayton Flesher &ndash; Refinements</li>
-<li>James Edward Gray II &ndash; Ruby 2.3</li>
-<li>Paul Dawson &ndash; Docker</li>
-</ul>
-
-
-<p>&lsquo;Popcorn talks&rsquo; were created to help alleviate some of the
-anxiety of topic selection and to give member&rsquo;s a chance
-to present and learn about a topic they might not have
-otherwise. Presentations can be a bit longer than a
-traditional lightning talk, and topic choices were
-suggested by the group and put into a bag to be chosen
-by volunteers. This is OKC.rb&rsquo;s first attempt at hosting
-these type of presentations, feedback (as always) is
-welcome and encouraged.</p>
-
-<p><a href="http://www.okcruby.org/about/">Code Of Conduct</a></p>
-
-<p>Location: <a href="http://prototekokc.com/">Prototek</a>
-Time: 11:30 &ndash; 12:30</p>
-
-<p>{Jeremy, Paul, Rob}</p>
-
-<p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
 ]]></content>
   </entry>
   

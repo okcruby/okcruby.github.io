@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2018-01-09T09:20:22-06:00</updated>
+  <updated>2018-04-30T09:42:27-05:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[May 10th Meeting]]></title>
+    <link href="http://www.okcruby.org/blog/2018/04/29/may-10th-meeting/"/>
+    <updated>2018-04-29T19:50:00-05:00</updated>
+    <id>http://www.okcruby.org/blog/2018/04/29/may-10th-meeting</id>
+    <content type="html"><![CDATA[<h2>The Future of OKC Ruby</h2>
+
+<p>Hey, everybody! Jeremy here.</p>
+
+<p>You may have noticed a distinct lack of okc.rb meetings as of late. The story is that Paul, Rob and I have found ourselves consumed with other events lately and we just haven&rsquo;t been able to give the group the time and attention that it deserves.</p>
+
+<p>We&rsquo;d love to see the group continue, but we&rsquo;re going to need some help. We&rsquo;d like to find some new co/organizers to help take the group through the next iteration.</p>
+
+<p>If you&rsquo;re interested in getting involved as an organizer please join us on May 10th to learn what you can
+do to help. If you&rsquo;re not quite ready for that commitment please come and help us unserstand what you&rsquo;d like to see from the group moving forward.</p>
+
+<p><a href="http://www.okcruby.org/about/">Code Of Conduct</a></p>
+
+<p>Many thanks to <a href="http://www.techlahoma.org/">Techlahoma</a> for sponsoring the meeting by providing the food and use of the event center.</p>
+
+<p>Location: <a href="http://www.starspace46.com/">StarSpace46</a>
+Time: 11:30 &ndash; 12:30</p>
+
+<p>{Jeremy, Paul, Rob}</p>
+
+<p><a href="https://www.google.com/maps/place/1141+W+Sheridan+Ave,+Oklahoma+City,+OK+73106/@35.4667943,-97.5343547,17z/data=!3m1!4b1!4m5!3m4!1s0x87b210d6c554c175:0x427474147d8d3d19!8m2!3d35.46679!4d-97.532166">StarSpace46 on Google Maps.</a></p>
+
+<p><img src="http://www.okcruby.org/images/starspace46_parking.jpg" class="fit"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[January 11 Meeting]]></title>
@@ -459,7 +490,7 @@ Time: 11:30 &ndash; 12:30</p>
 
 <p>Leave a comment <a href="http://www.meetup.com/OKC-Ruby/events/231340828/">on our MeetUp event with a brief description of your idea to get on the lineup</a>.</p>
 
-<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#109;&#x61;&#105;&#108;&#116;&#x6f;&#x3a;&#x74;&#101;&#x61;&#109;&#x40;&#x6f;&#107;&#x63;&#x72;&#x75;&#x62;&#x79;&#x2e;&#x6f;&#114;&#x67;&#46;">&#x74;&#101;&#97;&#x6d;&#64;&#111;&#x6b;&#x63;&#x72;&#x75;&#x62;&#x79;&#46;&#111;&#114;&#x67;&#x2e;</a></p>
+<p>Or if you have an idea that you&rsquo;d like to run by us for some feedback you can email us at <a href="&#109;&#97;&#x69;&#108;&#116;&#x6f;&#x3a;&#x74;&#101;&#97;&#x6d;&#x40;&#x6f;&#107;&#99;&#x72;&#x75;&#x62;&#x79;&#x2e;&#111;&#x72;&#x67;&#x2e;">&#x74;&#101;&#97;&#109;&#x40;&#111;&#107;&#x63;&#114;&#x75;&#x62;&#x79;&#x2e;&#111;&#114;&#x67;&#x2e;</a></p>
 
 <p><a href="http://www.okcruby.org/about/">Code Of Conduct</a></p>
 
@@ -514,24 +545,6 @@ Time: 11:30 &ndash; 12:30</p>
 <p>{Jeremy, Paul, Rob}</p>
 
 <p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[March 10, 2016 Meeting]]></title>
-    <link href="http://www.okcruby.org/blog/2016/03/02/mar-2016-meeting/"/>
-    <updated>2016-03-02T13:55:00-06:00</updated>
-    <id>http://www.okcruby.org/blog/2016/03/02/mar-2016-meeting</id>
-    <content type="html"><![CDATA[<p>Whether you’re building a product using microservices or needing to
-offload some long-running tasks, having a message broker to communicate
-between different systems can be helpful. Using
-<a href="https://www.rabbitmq.com">RabbitMQ</a>, we will explore basic pub/sub and
-work our way up to RPC. Besides covering the basics, we will show how
-you can build more complex flows, check out a couple of useful plugins,
-and compare using a message broker to some of the other
-solutions currently available for Ruby.</p>
-
-<p>Nicholas Lindley is a music educator by training and software developer by trade. The public schools are grateful he pursued a career making things for the web. When not writing software, Nicholas might be playing his trumpet or having a beer. You can follow his occasional musings at <a href="https://www.thisoneplace.com/.">https://www.thisoneplace.com/.</a></p>
 ]]></content>
   </entry>
   
